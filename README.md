@@ -1,16 +1,7 @@
-# expense_tracker
+# MoneyTrail
+![video gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b344b2ad-5a43-4da5-8e14-89dfc69897fd)
 
-A new Flutter project.
-
+The expense tracker app allows users to log and save all their expenses effortlessly. It features a dynamic bar chart that categorizes and visualizes spending, making it easy to track financial habits at a glance.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Check out the App here : https://drive.google.com/file/d/1AxSnPvszQPx8HKThTO9KAk4PpoWfQkGJ/view?usp=sharing
